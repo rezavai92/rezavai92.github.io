@@ -249,6 +249,7 @@ padding:0px;
     border: 2px solid #FF2276;
     padding: 2px;
     margin: 5px 5px 10px 5px;
+    width: 100%;
 }
 
 #works img {
@@ -292,7 +293,7 @@ padding:0px;
     margin-right: 40px;
     max-height: 150px;
     margin-bottom: 20px;
-    border: 2px solid #FF2276;
+   # border: 2px solid #FF2276;
 }
 
     .media img:hover {
