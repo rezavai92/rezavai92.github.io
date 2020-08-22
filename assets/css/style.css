@@ -124,7 +124,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/back2.jpeg) no-repeat center center;
+    background: url(../img/back2.jpeg) no-repeat  ;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
